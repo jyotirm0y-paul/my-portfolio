@@ -9,15 +9,19 @@ h1{
 h2{
     font-size: 40px;
 }
+
 p{
     color: dimgray;
+    line-height: 30px;
 }
-.orange-heilight{
+.orange-highlight{
     color: orange;
 }
 .half-width{
     width: 40%;
     float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .half-width img{
     width: 100%;
@@ -44,7 +48,7 @@ section{
     background-position: right;
 }
 .single-experence{
-    box-shadow: 10px 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
     height: 80%;
     background-color: #fff;
