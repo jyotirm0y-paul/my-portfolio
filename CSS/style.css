@@ -16,7 +16,7 @@ p{
 }
 .orange-highlight{
     color: orange;
-}
+    }
 .half-width{
     width: 40%;
     float: left;
@@ -43,7 +43,7 @@ section{
     font-weight: bold;
 }
 .dream-area{
-    background-image: url(/my-portfolio/img/dream-bg.png);
+    background-image: url(/img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -54,7 +54,7 @@ section{
     background-color: #fff;
 }
 .experience-area{
-    background-image: url(/my-portfolio/img/exp-bg.png);
+    background-image: url(/img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
