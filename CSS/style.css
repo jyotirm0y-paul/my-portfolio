@@ -10,9 +10,9 @@ h2{
     font-size: 40px;
 }
 
-p{
+/* p{
     color: dimgray;
-    line-height: 30px;
+    line-height: 30px; */
 }
 .orange-highlight{
     color: orange;
@@ -71,4 +71,5 @@ section{
 footer p{
     text-align: center;
     font-style: 12px;
+    background-image: linear-gradient(180deg, blue, cyan);
 }
